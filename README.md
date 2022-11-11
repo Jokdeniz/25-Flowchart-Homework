@@ -1,5 +1,5 @@
-#ÖZGÜR DENİZ FISTIKÇI
-##Student Number:2010213043
+ÖZGÜR DENİZ FISTIKÇI
+     Student Number:2010213043
 
 I used the FlowChart Visual Programing Language application in the making of my homework.
 
