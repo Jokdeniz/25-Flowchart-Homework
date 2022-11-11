@@ -9,3 +9,5 @@ I solved 23 questions.Unfortunately, I could not solve question 22 and 24.
 
 You can download the application in this link :[download the application](https://www.sahingokhan.com/wp-content/uploads/2020/10/FlowChartVisualProgrammingLanguage301.rar)
 
+Or you can view the screenshots more easily.
+
